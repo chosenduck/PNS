@@ -1,2 +1,4 @@
-# PNS_2013-e-2019
-Diagnóstico de Estados Nutricionais em todo Brasil a partir dos microdados disponibilizados pela PNS, no anos de 2013 e 2019.
+  # PNS
+Diagnóstico de Estados Nutricionais em todo Brasil a partir dos microdados disponibilizados pela PNS (Pesquisa Nacional de Saúde), realizada pelo Ministério da Saúde no anos de 2013 e 2019. Aqui construímos tabelas com as porcentagens de cada estado nutricional - peso baixo, eutrofia, sobrepeso, obesidade (grau I, II e III)-, nas categorias de ano, sexo, faixa etária, cidade, cor/raça, faixa de renda e escolaridade.
+
+A PNS é uma pesquisa amostral realizada pelo IBGE em 2013 e em 2019 com o objetivo de investigar as características do domicílio e aspectos relativos à saúde dos moradores. A pesquisa tem enfoque em doenças crônicas não transmissíveis, estilos de vida e acesso ao atendimento médico. A amostra da PNS cobria 80.281 domicílios com 205.546 indivíduos. Ela tem por objetivo produzir dados nacionais sobre situação de saúde e estilos de vida da população brasileira; Obter informações sobre acesso e uso dos serviços de saúde, continuidade dos cuidados e financiamento da assistência de saúde.
